@@ -6,7 +6,7 @@
 
 **An end-to-end data analytics project exploring inflation trends, food prices, COVID-era changes, and the relationship between imported crude oil movements and CPI categories.**
 
-<img src="images/project_cover.png" alt="India CPI Inflation Analytics project cover" width="100%"/>
+<img src="images/project_cover.png" alt="India CPI Inflation Analytics" width="100%"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20Query-0F6CBD?style=for-the-badge" alt="Power Query"/> <img src="https://img.shields.io/badge/Power%20Pivot-123B5D?style=for-the-badge" alt="Power Pivot"/> <img src="https://img.shields.io/badge/Data%20Analytics-2AA9A8?style=for-the-badge" alt="Data Analytics"/>
 
