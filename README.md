@@ -6,7 +6,7 @@
 
 **An end-to-end data analytics project exploring inflation trends, food prices, COVID-era changes, and the relationship between imported crude oil movements and CPI categories.**
 
-<img src="images/project_cover.png" alt="India CPI Inflation Analytics" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/project_cover.png" alt="India CPI Inflation Analytics" width="100%"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/> <img src="https://img.shields.io/badge/Power%20Query-0F6CBD?style=for-the-badge" alt="Power Query"/> <img src="https://img.shields.io/badge/Power%20Pivot-123B5D?style=for-the-badge" alt="Power Pivot"/> <img src="https://img.shields.io/badge/Data%20Analytics-2AA9A8?style=for-the-badge" alt="Data Analytics"/>
 
@@ -42,23 +42,23 @@ This project analyses India’s Consumer Price Index (CPI) from **January 2013 t
 
 ### 1. May 2023 CPI category comparison
 
-![May 2023 CPI category share](images/charts/q1_cpi_contribution.png)
+![May 2023 CPI category share](https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/charts/q1_cpi_contribution.png)
 
 ### 2. Year-on-year CPI inflation trend
 
-![YoY CPI inflation trend](images/charts/q2_yoy_inflation.png)
+![YoY CPI inflation trend](https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/charts/q2_yoy_inflation.png)
 
 ### 3. Food-category 12-month changes
 
-![Food category changes](images/charts/q3_food_category_change.png)
+![Food category changes](https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/charts/q3_food_category_change.png)
 
-### 4. COVID-era inflation-rate changes
+### 4. COVID
 
-![COVID impact](images/charts/q4_covid_impact.png)
+![COVID impact](https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/charts/q4_covid_impact.png)
 
 ### 5. Imported oil and CPI category correlations
 
-![Imported oil CPI correlation](images/charts/q5_oil_cpi_correlation.png)
+![Imported oil CPI correlation](https://raw.githubusercontent.com/Aniruddh0191/india-cpi-inflation-analytics/main/images/charts/q5_oil_cpi_correlation.png)
 
 ## 🧰 Tools & Skills
 
@@ -110,6 +110,6 @@ india-cpi-inflation-analytics/
 
 ## 👤 Author
 
-**Anirudh Kumar Yadav** · Data Analytics Portfolio Project
+**Anirudh Kumar Yadav** · 
 
 This repository is intended for educational and portfolio demonstration. Preserve the original data publisher’s attribution and terms when reusing source data.
